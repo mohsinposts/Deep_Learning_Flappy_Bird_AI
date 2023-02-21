@@ -1,2 +1,2 @@
-# Deep_Learning_Flappy_Bird_AI
+# Deep Learning Flappy Bird AI
 Hello
