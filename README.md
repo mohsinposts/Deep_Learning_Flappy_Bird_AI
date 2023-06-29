@@ -1,4 +1,4 @@
-# Deep Learning Flappy Bird AI
+# NEAT Learning Flappy Bird AI
 Hello,
 I made this Flappy Bird AI by first applying object oriented programming to make the general mechanics of the game with Python and PyGame. Whilst making the game I tried to think of the simplest ways to simulate physics and collisions. Then I implemented the NEAT genetic algorithm with evolving artificial neural networks to trian the AI birds. When I tested the AI, the birds were could go on forever after the 11th generation.
 
