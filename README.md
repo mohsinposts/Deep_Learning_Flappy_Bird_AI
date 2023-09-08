@@ -5,7 +5,7 @@ This project is a Flappy Bird AI implementation that combines object-oriented pr
 
 ## Project Description
 ### Object-Oriented Programming
-This Flappy Bird AI project starts by applying object-oriented programming (OOP) principles to construct the fundamental mechanics of the game using Python and the PyGame library. This approach ensures a clean and modular codebase, making it easier to manage and extend the game's functionality.
+This Flappy Bird AI project starts by applying object-oriented programming (OOP) principles to construct the fundamental mechanics of the game using Python and PyGame. This approach ensures a clean and modular codebase, making it easier to manage and extend the game's functionality.
 
 ### Physics and Collision Simulation
 While developing the game, special attention was given to simplifying the simulation of physics and collisions. This optimization ensures that the game mechanics run smoothly, providing a realistic and enjoyable gaming experience for both human players and AI agents.
